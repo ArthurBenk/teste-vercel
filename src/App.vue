@@ -9,6 +9,7 @@ function somar() {
 
 <template>
 <h1>Vercel teste</h1>
+<h3>atualização</h3>
 <p>{{ numero }}</p>
 <button @click="somar()">+</button>
 </template>
